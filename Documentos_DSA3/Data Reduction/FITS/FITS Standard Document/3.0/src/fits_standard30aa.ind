@@ -1,0 +1,256 @@
+\begin{theindex}
+
+  \item $N_{\rm bits}$, \hyperpage{10, 11}, \hyperpage{15}
+
+  \indexspace
+
+  \item angular units, \hyperpage{8}, \hyperpage{28}
+  \item ANSI, \hyperpage{3}, \hyperpage{38}
+  \item ANSI, IEEE, \hyperpage{14}, \hyperpage{23}
+  \item array descriptor, \hyperpage{20--23}, \hyperpage{25, 26}
+  \item array size, \hyperpage{10, 11}, \hyperpage{15}
+  \item array value, \hyperpage{3, 4}, \hyperpage{13}, \hyperpage{18}
+  \item array, multi-dimensional, \hyperpage{5}, \hyperpage{22}, 
+		\hyperpage{27, 28}, \hyperpage{41}
+  \item array, variable-length, \hyperpage{1}, \hyperpage{22}, 
+		\hyperpage{25, 26}, \hyperpage{41}
+  \item ASCII character, \hyperpage{3}, \hyperpage{14}, 
+		\hyperpage{17--19}, \hyperpage{38}
+  \item ASCII table, \hyperpage{17}
+  \item ASCII text, \hyperpage{3, 4}, \hyperpage{6}, \hyperpage{12}, 
+		\hyperpage{19}, \hyperpage{23}, \hyperpage{38}
+  \item ASCII, ANSI, \hyperpage{44}
+  \item AUTHOR, \hyperpage{12}
+
+  \indexspace
+
+  \item binary table, \hyperpage{4}, \hyperpage{14}, \hyperpage{19}, 
+		\hyperpage{37}
+  \item BITPIX, \hyperpage{10, 11}, \hyperpage{13--17}, \hyperpage{20}
+  \item BLANK, \hyperpage{13, 14}
+  \item blocking, \hyperpage{5}
+  \item BSCALE, \hyperpage{13, 14}
+  \item BUNIT, \hyperpage{13}
+  \item byte order, \hyperpage{5}, \hyperpage{14}, \hyperpage{23}
+  \item BZERO, \hyperpage{13, 14}
+
+  \indexspace
+
+  \item case sensitivity, \hyperpage{6}, \hyperpage{8}, \hyperpage{18}, 
+		\hyperpage{21}
+  \item character string, \hyperpage{3}, \hyperpage{6}, \hyperpage{19}, 
+		\hyperpage{22, 23}
+  \item COMMENT, \hyperpage{6}, \hyperpage{12}
+  \item complex data, \hyperpage{7}, \hyperpage{21}, \hyperpage{23, 24}
+  \item conforming extension, \hyperpage{3--5}
+  \item coordinate systems, \hyperpage{26}
+
+  \indexspace
+
+  \item DATAMAX, \hyperpage{13}
+  \item DATAMIN, \hyperpage{13}
+  \item DATE, \hyperpage{11}
+  \item DATE-OBS, \hyperpage{12}
+  \item DATExxxx, \hyperpage{12}
+  \item deprecate, \hyperpage{3, 4}, \hyperpage{6}, \hyperpage{9}, 
+		\hyperpage{12}, \hyperpage{14}, \hyperpage{19}, 
+		\hyperpage{27, 28}, \hyperpage{31}, \hyperpage{35}
+
+  \indexspace
+
+  \item END, \hyperpage{4}, \hyperpage{10}, \hyperpage{15, 16}, 
+		\hyperpage{18}, \hyperpage{20}, \hyperpage{25}
+  \item EPOCH, \hyperpage{31}
+  \item EQUINOX, \hyperpage{31}
+  \item EXTEND, \hyperpage{11}
+  \item extension, \hyperpage{3--5}, \hyperpage{13, 14}, \hyperpage{41}, 
+		\hyperpage{43}
+  \item extension registration, \hyperpage{5}, \hyperpage{10}
+  \item extension type name, \hyperpage{3}, \hyperpage{5}, 
+		\hyperpage{10}, \hyperpage{13}
+  \item extension, conforming, \hyperpage{3--5}
+  \item extension, standard, \hyperpage{4, 5}
+  \item EXTLEVEL, \hyperpage{14}
+  \item EXTNAME, \hyperpage{13}
+  \item EXTVER, \hyperpage{13}
+
+  \indexspace
+
+  \item field, empty, \hyperpage{20}, \hyperpage{23}
+  \item file size, \hyperpage{4}
+  \item fill, \hyperpage{4--6}, \hyperpage{10}, \hyperpage{16}, 
+		\hyperpage{18, 19}, \hyperpage{22}, \hyperpage{25}
+  \item FITS structure, \hyperpage{3, 4}, \hyperpage{6}, \hyperpage{11}
+  \item floating-point, \hyperpage{7}, \hyperpage{23}, \hyperpage{38}
+  \item floating-point {\em FITS\/} agreement, \hyperpage{44}
+  \item floating-point, complex, \hyperpage{7}, \hyperpage{23}
+  \item format, data, \hyperpage{14}
+  \item format, fixed, \hyperpage{6}
+  \item format, free, \hyperpage{6, 7}, \hyperpage{34}
+  \item format, keywords, \hyperpage{6}
+  \item Fortran, \hyperpage{5}, \hyperpage{17--19}, \hyperpage{21, 22}, 
+		\hyperpage{44}
+
+  \indexspace
+
+  \item GCOUNT, \hyperpage{11}, \hyperpage{15--17}, \hyperpage{20}
+  \item group parameter value, \hyperpage{3}, \hyperpage{15, 16}
+  \item GROUPS, \hyperpage{15}
+
+  \indexspace
+
+  \item HDU, \hyperpage{3}, \hyperpage{10}
+  \item HDU, extension, \hyperpage{3, 4}
+  \item HDU, primary, \hyperpage{3--5}
+  \item heap, \hyperpage{3}, \hyperpage{11}, \hyperpage{20--23}, 
+		\hyperpage{25, 26}
+  \item HISTORY, \hyperpage{6}, \hyperpage{12}
+  \item hyphen, \hyperpage{6}, \hyperpage{18}, \hyperpage{21}, 
+		\hyperpage{28}, \hyperpage{31}
+
+  \indexspace
+
+  \item IAU, \hyperpage{1}, \hyperpage{3}, \hyperpage{44}
+  \item IAU Style Manual, \hyperpage{8}, \hyperpage{44}
+  \item IAUFWG, \hyperpage{1}, \hyperpage{3}, \hyperpage{5}, 
+		\hyperpage{10}, \hyperpage{26}, \hyperpage{41}
+  \item IEEE floating-point, \hyperpage{14}
+  \item IEEE special values, \hyperpage{3}, \hyperpage{13, 14}, 
+		\hyperpage{38}
+  \item image extension, \hyperpage{16}
+  \item INSTRUME, \hyperpage{12}
+  \item integer, 16-bit, \hyperpage{14}, \hyperpage{23}
+  \item integer, 32-bit, \hyperpage{14}, \hyperpage{23}
+  \item integer, 64-bit, \hyperpage{14}, \hyperpage{23}
+  \item integer, 8-bit, \hyperpage{14}, \hyperpage{23}
+  \item integer, complex, \hyperpage{7}
+  \item integer, unsigned, \hyperpage{13, 14}, \hyperpage{21}, 
+		\hyperpage{23}
+
+  \indexspace
+
+  \item keyword record, \hyperpage{4}, \hyperpage{6}
+  \item keyword, commentary, \hyperpage{6}, \hyperpage{12}
+  \item keyword, indexed, \hyperpage{3}, \hyperpage{6}, \hyperpage{10}
+  \item keyword, mandatory, \hyperpage{6}, \hyperpage{10}, 
+		\hyperpage{15--17}, \hyperpage{20}, \hyperpage{37}
+  \item keyword, new, \hyperpage{14}
+  \item keyword, order, \hyperpage{10}, \hyperpage{15}, \hyperpage{17}
+  \item keyword, required, \hyperpage{4}, \hyperpage{10}, 
+		\hyperpage{15, 16}, \hyperpage{20}
+  \item keyword, reserved, \hyperpage{4}, \hyperpage{11}, 
+		\hyperpage{15, 16}, \hyperpage{18}, \hyperpage{20}, 
+		\hyperpage{28, 29}, \hyperpage{37}
+  \item keyword, valid characters, \hyperpage{6}
+
+  \indexspace
+
+  \item logical value, \hyperpage{7}, \hyperpage{23, 24}
+
+  \indexspace
+
+  \item magnetic tape, \hyperpage{5}
+
+  \indexspace
+
+  \item NaN, IEEE, \hyperpage{14}, \hyperpage{23}, \hyperpage{38, 39}
+  \item NAXIS, \hyperpage{4, 5}, \hyperpage{10, 11}, \hyperpage{15--17}, 
+		\hyperpage{20}
+  \item NAXIS1, \hyperpage{15}, \hyperpage{17, 18}, \hyperpage{20}, 
+		\hyperpage{22}, \hyperpage{25}
+  \item NAXIS2, \hyperpage{17, 18}, \hyperpage{20}, \hyperpage{22}, 
+		\hyperpage{25}
+  \item NAXISn, \hyperpage{4, 5}, \hyperpage{10, 11}, 
+		\hyperpage{15, 16}
+  \item NULL, ASCII, \hyperpage{3}, \hyperpage{23}
+
+  \indexspace
+
+  \item OBJECT, \hyperpage{12}
+  \item OBSERVER, \hyperpage{12}
+  \item order, byte, \hyperpage{5}, \hyperpage{14}, \hyperpage{23}
+  \item order, extensions, \hyperpage{5}
+  \item order, keyword, \hyperpage{6}, \hyperpage{10}, \hyperpage{15}, 
+		\hyperpage{17}
+  \item order, {\em FITS\/} structures, \hyperpage{4}
+  \item ORIGIN, \hyperpage{11}
+
+  \indexspace
+
+  \item PCOUNT, \hyperpage{11}, \hyperpage{15--17}, \hyperpage{20}, 
+		\hyperpage{25}
+  \item physical value, \hyperpage{3, 4}, \hyperpage{13}, 
+		\hyperpage{15, 16}, \hyperpage{18}, \hyperpage{21}
+  \item primary data array, \hyperpage{3, 4}, \hyperpage{15, 16}
+  \item primary header, \hyperpage{3, 4}, \hyperpage{10}, 
+		\hyperpage{15}
+  \item PSCALn, \hyperpage{15, 16}
+  \item PTYPEn, \hyperpage{15, 16}
+  \item PZEROn, \hyperpage{15, 16}
+
+  \indexspace
+
+  \item random groups, \hyperpage{3}, \hyperpage{13--15}
+  \item random groups array, \hyperpage{15}
+  \item REFERENC, \hyperpage{12}
+  \item repeat count, \hyperpage{4}, \hyperpage{20}, \hyperpage{23}
+
+  \indexspace
+
+  \item scaling, data, \hyperpage{15, 16}, \hyperpage{18}, 
+		\hyperpage{21}
+  \item sign bit, \hyperpage{14}
+  \item sign character, \hyperpage{7}, \hyperpage{19}
+  \item SIMPLE, \hyperpage{5}, \hyperpage{10}, \hyperpage{15}
+  \item slash, \hyperpage{6}, \hyperpage{8}
+  \item special records, \hyperpage{3--5}
+  \item special values, IEEE, \hyperpage{23}
+  \item standard extension, \hyperpage{4, 5}
+
+  \indexspace
+
+  \item TABLE, \hyperpage{17}
+  \item TBCOLn, \hyperpage{17}
+  \item TDIMn, \hyperpage{22}
+  \item TDISPn, \hyperpage{18}, \hyperpage{21}
+  \item TELESCOP, \hyperpage{12}
+  \item TFIELDS, \hyperpage{17}, \hyperpage{20}
+  \item TFORMn, \hyperpage{17}, \hyperpage{20}, \hyperpage{23}, 
+		\hyperpage{25}
+  \item THEAP, \hyperpage{22}, \hyperpage{25}
+  \item time, \hyperpage{11, 12}, \hyperpage{31}, \hyperpage{35}
+  \item time, universal, \hyperpage{11}
+  \item TNULLn, \hyperpage{18, 19}, \hyperpage{21}, \hyperpage{23}
+  \item TSCALn, \hyperpage{18}, \hyperpage{21}, \hyperpage{25}
+  \item TTYPEn, \hyperpage{18}, \hyperpage{20}
+  \item TUNITn, \hyperpage{18}, \hyperpage{21}
+  \item two's complement, \hyperpage{14}, \hyperpage{23}
+  \item TZEROn, \hyperpage{18}, \hyperpage{21}, \hyperpage{25}
+
+  \indexspace
+
+  \item underscore, \hyperpage{6}, \hyperpage{18}, \hyperpage{21}
+  \item units, \hyperpage{4}, \hyperpage{8}, \hyperpage{13}, 
+		\hyperpage{18}, \hyperpage{21}, \hyperpage{28}, 
+		\hyperpage{32}
+
+  \indexspace
+
+  \item value, \hyperpage{6}, \hyperpage{11}
+  \item value, undefined, \hyperpage{6, 7}, \hyperpage{13, 14}, 
+		\hyperpage{18, 19}, \hyperpage{21}, \hyperpage{42}
+  \item variable-length array, \hyperpage{1}, \hyperpage{22}, 
+		\hyperpage{25, 26}, \hyperpage{41}
+
+  \indexspace
+
+  \item WCS, \hyperpage{26}
+  \item WCS, celestial, \hyperpage{30}
+  \item WCS, spectral, \hyperpage{31}
+
+  \indexspace
+
+  \item XTENSION, \hyperpage{3}, \hyperpage{5}, \hyperpage{10}, 
+		\hyperpage{13}, \hyperpage{16, 17}, \hyperpage{20}
+
+\end{theindex}

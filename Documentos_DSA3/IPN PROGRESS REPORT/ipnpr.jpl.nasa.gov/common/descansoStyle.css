@@ -1,0 +1,252 @@
+BODY  {
+	font : 12px Arial,Verdana,Helvetica;
+	color : #000000;
+}
+
+P, li, TD, .headlines  {
+	font : 12px Arial,Verdana,Helvetica;
+	color : #000000;
+}
+
+TH  {
+	font : 12px Arial,Verdana,Helvetica;
+	font-weight : bold;
+}
+
+b	{
+	font-weight: bold;
+}
+
+H1  {
+	font : 14px Arial, Helvetica, Tahoma, Verdana;
+	font-weight : bold;
+	color : #000066;
+}
+
+.title  {
+	font : 15px Arial, Helvetica;
+	font-weight : bold;
+	color : #003333;
+}
+
+.title1  {
+	font : 13px Arial;
+	font-weight : bold;
+	color : #000099;
+
+}
+H2  {
+	font : 12px Arial, Helvetica, Tahoma, Verdana;
+	font-weight : bold;
+	color : #660033;
+}
+
+H3  {
+	font : 12px Arial,Verdana,Helvetica;
+	font-weight : bold;
+	color : #003366;
+}
+
+A  {
+	text-decoration : none;
+	color : #0261C3;
+}
+
+
+A:hover  {
+	text-decoration : underline;
+	color : #0261C3;
+}
+
+
+A.credits:link  {
+	color : 082AF7;
+	text-decoration : underline;
+}
+
+A.credits:visited  {
+	color : #6666FF;
+	text-decoration : underline;
+}
+
+A.alpha:link  {
+	color : #3366cc;
+	text-decoration : underline;
+}
+
+A.alpha:visited  {
+	color : #3366cc;
+	text-decoration : underline;
+}
+
+.start1  {
+	font : 12px Arial,Verdana,Helvetica;
+	font-weight : bold;
+	color : #666633;
+}
+
+
+.start2  {
+	font : 12px Arial,Verdana,Helvetica;
+	font-weight : bold;
+}
+
+.doctitle  {
+	font : 12px Arial,Verdana,Helvetica;
+	font-weight : bold;
+	color : #009999;
+}
+
+.caption {
+	font : 11px Arial,Verdana,Helvetica;
+}
+.locator  {
+	font : 10px Arial,Verdana,Helvetica;
+	color : #000000;
+}
+
+.credits  {
+	font : 10px Arial,Verdana,Helvetica;
+	color : #333333;
+}
+
+OL,UL  {
+	font-size : 12px;
+	font-family : Arial,Verdana,Helvetica;
+	font-weight : normal;
+	color : #003366;
+}
+
+blockquote  {
+	font-size : 12px;
+	font-family : Arial,Verdana,Helvetica;
+	color : #003366;
+}
+
+.formentry {
+	font : 11px Courier New;
+}
+
+.toc {
+	font : 11px Arial,Verdana,Helvetica;
+}
+
+A.toc:link  {
+	color : #3366cc;
+	text-decoration : none;
+}
+
+A.toc:hover  {
+	text-decoration : none;
+}
+
+A.toc:visited  {
+	color : #660033;
+	text-decoration : underline;
+}
+
+/* JPL Portal */
+.bold {
+	FONT-WEIGHT: bold
+}
+.boldTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px
+}
+.italic {
+	FONT-STYLE: italic
+}
+.light {
+	COLOR: #484848
+}
+.small {
+	FONT-SIZE: 10px
+}
+.headerLnk {
+	COLOR: #666666; LINE-HEIGHT: 18px
+}
+.footerLnk {
+	COLOR: #000000
+}
+.sectionLnk {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.featureLnk {
+	COLOR: #006699
+}
+.search {
+	WIDTH: 102px; HEIGHT: 17px
+}
+.mynasa {
+	WIDTH: 165px; HEIGHT: 17px
+}
+.bannerLnk {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff
+}
+.bannerTxt {
+	FONT-WEIGHT: bold; COLOR: #0398e8
+}
+.navLnkBlack {
+	COLOR: #000000; LINE-HEIGHT: 18px
+}
+.navLnkBlue {
+	COLOR: #006699; LINE-HEIGHT: 18px
+}
+.navLnkRed {
+	COLOR: #ff3333; LINE-HEIGHT: 18px
+}
+.fact {
+	FONT-SIZE: 13px; COLOR: #484848
+}
+.factBlue {
+	COLOR: #006699
+}
+.factRed {
+	COLOR: #ff3333
+}
+.introLnk {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #009eff
+}
+.introTxt {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.featureLnkSelect {
+	COLOR: #006699; TEXT-DECORATION: underline
+}
+.boldFeature {
+	FONT-WEIGHT: bold; COLOR: #006699; FONT-SIZE: 14px;
+}
+.headlineLnk {
+	FONT-WEIGHT: bold; COLOR: #333333
+}
+.detailBodyLnk {
+	COLOR: #006699; TEXT-DECORATION: underline
+}
+.detailBodyItem {
+	COLOR: #006699
+}
+.detailImageDesc {
+	COLOR: #999999
+}
+.relevanceOn {
+	COLOR: #999999
+}
+.relevanceOff {
+	COLOR: #cccccc
+}
+.resultsMeter {
+	LETTER-SPACING: 1px
+}
+.resultsMeterMiss {
+	COLOR: #cccccc; LETTER-SPACING: 1px
+}
+.boldFeatureLg { FONT-WEIGHT: bold; COLOR: #006699 ; font-size: medium; line-height: 25px}
+
+.subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #009eff; font:Tahoma,Arial,Verdana,Helvetica;
+}
+
+.news
+{
+	color: #2366B2;
+	font-size: 11px;
+}

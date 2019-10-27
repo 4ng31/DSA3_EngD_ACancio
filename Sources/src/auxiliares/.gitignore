@@ -1,0 +1,12 @@
+*~
+*.pyc
+*.pdf
+*.log
+*.old
+*.png
+*.aux
+*.log
+*.out
+*.gz
+DATOS/
+ipython*

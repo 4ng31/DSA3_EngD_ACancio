@@ -1,0 +1,68 @@
+Testing
+3424912
+3247536
+0 608 11744
+blocksize: 16
+cfegain: 297
+digitalgain: 1109
+frameid: 2
+gdspid: 0
+hdrlen: 76
+hs: 1
+magic: !!binary |
+  o8cltg==
+msg: 6
+ncoreset_c: 131
+ncoreset_t: 581867
+ncov: 1
+offsetfreq: 24542673
+path_delay: 9022
+qu: 4
+recordlength: 1468
+samplerate: 352
+semr: 675
+subc: 0
+subchan0_offset: -981667541
+subchan1_offset: -1450803138
+subchan2_offset: -512530718
+subchan3_offset: 1364012894
+sweepchange: 0
+sweeprate: 0
+timetag_samps: 5335054
+timetag_secs: 61863
+version: 3
+
+a3c725b6
+11745 12353 23489
+blocksize: 152
+cfegain: 770
+digitalgain: 1800
+frameid: 1275068416
+gdspid: 124
+hdrlen: 120
+hs: 0
+magic: !!binary |
+  ZUeOSw==
+msg: 6
+ncoreset_c: 17
+ncoreset_t: 29121
+ncov: 0
+offsetfreq: -1677529861
+path_delay: 70
+qu: 2
+recordlength: 27659
+samplerate: 8194
+semr: 37
+subc: 4
+subchan0_offset: -1416955422
+subchan1_offset: 1465060608
+subchan2_offset: 2109925069
+subchan3_offset: -995976610
+sweepchange: 560
+sweeprate: -1140850688
+timetag_samps: 828590
+timetag_secs: 83427
+version: 3
+
+65478e4b
+Done!

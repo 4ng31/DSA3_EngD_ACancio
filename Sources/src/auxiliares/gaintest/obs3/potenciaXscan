@@ -1,0 +1,37 @@
+ID  POW     LOG(POW)
+01 476.1768 2.6299
+02 446.6231 2.6499
+03 524.6652 2.7199
+04 493.1734 2.6930
+05 487.1839 2.6877
+06 558.0687 2.7467
+07 328.9959 2.5172
+08 471.7164 2.6737
+
+fs=17500000/176;
+ts=1/fs;
+OFFVec=gpuArray(ch00OFF);
+ONVec=gpuArray(ch00ON(1:length(ch00OFF)));
+%ONVec=gpuArray(ch00ON);
+%OFFVec=gpuArray(ch00OFF(1:length(ch00ON)));
+numSamples=length(ch00ON);
+frequencyVec=fs/2*linspace(0,1,numSamples/2+1);
+transformedON=fft(ONVec);
+transformedOFF=fft(OFFVec);
+powerON=transformedON .* conj(transformedON) ./numSamples;
+powerOFF=transformedOFF .* conj(transformedOFF) ./numSamples;
+resultOFF=real(powerOFF(1:numSamples/2+1));
+resultON=real(powerON(1:numSamples/2+1));
+plot(frequencyVec,resultON );
+hold on;
+plot(frequencyVec,resultOFF );
+figure(2);
+diffONOFF=resultON-resultOFF;
+plot(frequencyVec,abs(diffONOFF) );
+pow=sum(abs(diffONOFF))/length(diffONOFF);
+pow
+powON=sum(resultON)/length(resultON);
+powOFF=sum(resultOFF)/length(resultOFF);
+pow=powON-powOFF;
+pow
+log10(pow)

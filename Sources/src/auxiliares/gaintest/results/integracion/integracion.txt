@@ -1,0 +1,24 @@
+out = sma(ESU2CH0b,1);
+plot(out);
+out = sma(ESU2CH0b,5);
+plot(out);
+out = sma(ESU2CH0b,10);
+plot(out);
+out = sma(ESU2CH0b,50);
+plot(out);
+out = sma(ESU2CH0b,100);
+plot(out);
+out = sma(ESU2CH0b,500);
+plot(out);
+out = sma(ESU2CH0b,1000);
+plot(out);
+out = sma(ESU2CH0b,5000);
+plot(out);
+out = sma(ESU2CH0b,10000);
+plot(out);
+out = sma(ESU2CH0b,50000);
+plot(out);
+out = sma(ESU2CH0b,100000);
+plot(out);
+
+10 us to 1 second running mean (Sum Moving Average)

@@ -1,0 +1,35 @@
+Fs = 1000;
+t = 0:1/Fs:1-1/Fs;
+noise=randn(size(t));
+x = cos(2*pi*100*t)+noise;
+[Pxx,F] = periodogram(x,[],length(x),Fs);
+[Pns,F] = periodogram(noise,[],length(noise),Fs);
+
+plot(F,10*log10(Pxx));
+plot(F,10*log10(Pns));
+plot(F,10*log10(Pxx-Pns));
+
+
+% Generate test data signals.
+a = [1,-.8,.7]; b = [1,0,-1];
+for i=1:20;
+   x(:,i) = filter (b, a, randn(100,1));
+end;
+
+
+% Compute the mean periodogram.
+% (using a hanning window)
+p = 0;
+h = .5*(1 - cos(2*pi*(1:100)'/(101)));
+for i=1:20;
+f = fft(x(:,i).*h);
+p = p + abs(f).^2;
+end;
+p = p(1:51) / size(x,2) / norm(h).^2;
+
+
+% Compare with spectrum of a single
+% long signal.
+y = filter (b, a, randn(10000,1));
+s = spectrum (y, 100);
+plot ([p, s(:,1)])
